@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Leetroll",
+    "seed": -1
+  },
+  {
+    "id": 2,
+    "name": "Maschell",
+    "seed": 1
+  },
+  {
+    "id": 3,
+    "name": "AnimeBlack",
+    "seed": -1
+  },
+  {
+    "id": 4,
+    "name": "Maurice",
+    "seed": 1
+  },
+  {
+    "id": 5,
+    "name": "Exo",
+    "seed": -1
+  },
+  {
+    "id": 6,
+    "name": "Eliwa",
+    "seed": 1
+  },
+  {
+    "id": 7,
+    "name": "Noonuus",
+    "seed": -1
+  },
+  {
+    "id": 8,
+    "name": "Giant",
+    "seed": 1
+  }
+]

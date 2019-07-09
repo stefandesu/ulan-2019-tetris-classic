@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "gamesToWin": 2,
+    "player1": {
+      "id": 1,
+      "fromMatch": null
+    },
+    "player2": {
+      "id": 2,
+      "fromMatch": null
+    },
+    "games": [
+      {
+        "level": 9,
+        "scores": {
+          "1": 148180,
+          "2": 142702
+        },
+        "winner": 1
+      },
+      {
+        "level": 18,
+        "scores": {
+          "1": 768,
+          "2": 5748
+        },
+        "winner": 2
+      },
+      {
+        "level": 9,
+        "scores": {
+          "1": 69162,
+          "2": 93467
+        },
+        "winner": 2
+      }
+    ],
+    "winner": 2,
+    "loser": 1
+  },
+  {
+    "id": 2,
+    "gamesToWin": 2,
+    "player1": {
+      "id": 3,
+      "fromMatch": null
+    },
+    "player2": {
+      "id": 4,
+      "fromMatch": null
+    },
+    "games": [
+      {
+        "level": 9,
+        "scores": {
+          "3": 29783,
+          "4": 102919
+        },
+        "winner": 4
+      },
+      {
+        "level": 9,
+        "scores": {
+          "3": 10291,
+          "4": 85422
+        },
+        "winner": 4
+      }
+    ],
+    "winner": 4,
+    "loser": 3
+  },
+  {
+    "id": 3,
+    "gamesToWin": 2,
+    "player1": {
+      "id": 5,
+      "fromMatch": null
+    },
+    "player2": {
+      "id": 6,
+      "fromMatch": null
+    },
+    "games": [
+      {
+        "level": 9,
+        "scores": {
+          "5": 44237,
+          "6": 114533
+        },
+        "winner": 6
+      },
+      {
+        "level": 9,
+        "scores": {
+          "5": 470,
+          "6": 27800
+        },
+        "winner": 6
+      }
+    ],
+    "winner": 6,
+    "loser": 5
+  },
+  {
+    "id": 4,
+    "gamesToWin": 2,
+    "player1": {
+      "id": 7,
+      "fromMatch": null
+    },
+    "player2": {
+      "id": 8,
+      "fromMatch": null
+    },
+    "games": [
+      {
+        "level": 9,
+        "scores": {
+          "7": 13414,
+          "8": 40612
+        },
+        "winner": 8
+      },
+      {
+        "level": 9,
+        "scores": {
+          "7": 50873,
+          "8": 68984
+        },
+        "winner": 8
+      }
+    ],
+    "winner": 8,
+    "loser": 7
+  },
+  {
+    "id": 5,
+    "gamesToWin": 2,
+    "player1": {
+      "id": 2,
+      "fromMatch": 1
+    },
+    "player2": {
+      "id": 4,
+      "fromMatch": 2
+    },
+    "games": [
+      {
+        "level": 18,
+        "scores": {
+          "2": 6851,
+          "4": 1520
+        },
+        "winner": 2
+      },
+      {
+        "level": 15,
+        "scores": {
+          "2": 279131,
+          "4": 219128
+        },
+        "winner": 2
+      }
+    ],
+    "winner": 2,
+    "loser": 4
+  },
+  {
+    "id": 6,
+    "gamesToWin": 2,
+    "player1": {
+      "id": 6,
+      "fromMatch": 3
+    },
+    "player2": {
+      "id": 8,
+      "fromMatch": 4
+    },
+    "games": [
+      {
+        "level": 15,
+        "scores": {
+          "6": 86524,
+          "8": 28360
+        },
+        "winner": 6
+      },
+      {
+        "level": 15,
+        "scores": {
+          "6": 3345,
+          "8": 59130
+        },
+        "winner": 8
+      },
+      {
+        "level": 15,
+        "scores": {
+          "6": 252714,
+          "8": 227496
+        },
+        "winner": 6
+      }
+    ],
+    "winner": 6,
+    "loser": 8
+  },
+  {
+    "id": 7,
+    "gamesToWin": 3,
+    "player1": {
+      "id": 2,
+      "fromMatch": 5
+    },
+    "player2": {
+      "id": 6,
+      "fromMatch": 6
+    },
+    "games": [
+      {
+        "level": 18,
+        "scores": {
+          "2": 23560,
+          "6": 27831
+        },
+        "winner": 6
+      },
+      {
+        "level": 15,
+        "scores": {
+          "2": 2309,
+          "6": 39927
+        },
+        "winner": 6
+      },
+      {
+        "level": 15,
+        "scores": {
+          "2": 244429,
+          "6": 207702
+        },
+        "winner": 2
+      },
+      {
+        "level": 18,
+        "scores": {
+          "2": 32300,
+          "6": 84220
+        },
+        "winner": 6
+      }
+    ],
+    "winner": 6,
+    "loser": 2
+  },
+  {
+    "id": 8,
+    "gamesToWin": 2,
+    "player1": {
+      "id": 1,
+      "fromMatch": 1
+    },
+    "player2": {
+      "id": 3,
+      "fromMatch": 2
+    },
+    "games": [
+      {
+        "level": 9,
+        "scores": {
+          "1": 41646,
+          "3": 20000
+        },
+        "winner": 1
+      },
+      {
+        "level": 9,
+        "scores": {
+          "1": 51655,
+          "3": 48782
+        },
+        "winner": 1
+      }
+    ],
+    "winner": 1,
+    "loser": 3
+  },
+  {
+    "id": 9,
+    "gamesToWin": 2,
+    "player1": {
+      "id": 5,
+      "fromMatch": 3
+    },
+    "player2": {
+      "id": 7,
+      "fromMatch": 4
+    },
+    "games": [
+      {
+        "level": 9,
+        "scores": {
+          "5": 60580,
+          "7": 68814
+        },
+        "winner": 7
+      },
+      {
+        "level": 9,
+        "scores": {
+          "5": 26006,
+          "7": 4000
+        },
+        "winner": 5
+      },
+      {
+        "level": 9,
+        "scores": {
+          "5": 127692,
+          "7": 130659
+        },
+        "winner": 7
+      }
+    ],
+    "winner": 7,
+    "loser": 5
+  },
+  {
+    "id": 10,
+    "gamesToWin": 2,
+    "player1": {
+      "id": 8,
+      "fromMatch": 6
+    },
+    "player2": {
+      "id": 1,
+      "fromMatch": 8
+    },
+    "games": [
+      {
+        "level": 9,
+        "scores": {
+          "8": 562574,
+          "1": 224608
+        },
+        "winner": 8
+      },
+      {
+        "level": 9,
+        "scores": {
+          "8": 201202,
+          "1": 71266
+        },
+        "winner": 8
+      }
+    ],
+    "winner": 8,
+    "loser": 1
+  },
+  {
+    "id": 11,
+    "gamesToWin": 2,
+    "player1": {
+      "id": 7,
+      "fromMatch": 9
+    },
+    "player2": {
+      "id": 4,
+      "fromMatch": 5
+    },
+    "games": [
+      {
+        "level": 18,
+        "scores": {
+          "7": 760,
+          "4": 3040
+        },
+        "winner": 4
+      },
+      {
+        "level": 18,
+        "scores": {
+          "7": 14440,
+          "4": 115520
+        },
+        "winner": 4
+      }
+    ],
+    "winner": 4,
+    "loser": 7
+  },
+  {
+    "id": 12,
+    "gamesToWin": 2,
+    "player1": {
+      "id": 8,
+      "fromMatch": 10
+    },
+    "player2": {
+      "id": 4,
+      "fromMatch": 11
+    },
+    "games": [
+      {
+        "level": 15,
+        "scores": {
+          "8": 428831,
+          "4": 439825
+        },
+        "winner": 4
+      },
+      {
+        "level": 18,
+        "scores": {
+          "8": 6468,
+          "4": 80560
+        },
+        "winner": 4
+      }
+    ],
+    "winner": 4,
+    "loser": 8
+  },
+  {
+    "id": 13,
+    "gamesToWin": 3,
+    "player1": {
+      "id": 2,
+      "fromMatch": 7
+    },
+    "player2": {
+      "id": 4,
+      "fromMatch": 12
+    },
+    "games": [
+      {
+        "level": 15,
+        "scores": {
+          "2": 213511,
+          "4": 230280
+        },
+        "winner": 4
+      },
+      {
+        "level": 15,
+        "scores": {
+          "2": 187588,
+          "4": 228480
+        },
+        "winner": 4
+      },
+      {
+        "level": 15,
+        "scores": {
+          "2": 181637,
+          "4": 353600
+        },
+        "winner": 4
+      }
+    ],
+    "winner": 4,
+    "loser": 2
+  },
+  {
+    "id": 14,
+    "gamesToWin": 3,
+    "player1": {
+      "id": 6,
+      "fromMatch": 7
+    },
+    "player2": {
+      "id": 4,
+      "fromMatch": 13
+    },
+    "games": [
+      {
+        "level": 18,
+        "scores": {
+          "6": 117273,
+          "4": 38760
+        },
+        "winner": 6
+      },
+      {
+        "level": 18,
+        "scores": {
+          "6": 80794,
+          "4": 55860
+        },
+        "winner": 6
+      },
+      {
+        "level": 18,
+        "scores": {
+          "6": 125608,
+          "4": 76760
+        },
+        "winner": 6
+      }
+    ],
+    "winner": 6,
+    "loser": 4
+  }
+]
