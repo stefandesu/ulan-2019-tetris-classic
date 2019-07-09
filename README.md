@@ -40,7 +40,7 @@ I only have the bracket on a piece of paper:
 - Exo (me) - documentation
 - Maschell and Giant - consoles and TVs
 
-We are all part of the Puyo Puyo Tetris Germany (PPTG) community.
+We are all part of the PuyoPuyo Tetris Germany (PPTG, [Facebook](https://www.facebook.com/PPTGermany/), [Discord](https://discordapp.com/invite/Zwet4nf)) community.
 
 ## Pictures
 **Raw Scores:**
