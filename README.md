@@ -6,6 +6,8 @@ Because we had some newer players in the tournament, we decided that the lower s
 
 Unfortunately, we weren't able to record the matches, but we noted down all the results including number of points (except for AnimeBlack's score in match 8 game 1 which we approximated). Next time we want to record the matches as well, maybe even stream the tournament if possible.
 
+Congratulations to Eliwa for winning the tournament!
+
 ## Participants
 
 ### Higher Seed
@@ -26,7 +28,7 @@ I only have the bracket on a piece of paper:
 ![](pictures/bracket.jpg)
 
 ## Rankings
-1. Eliwa
+1. **Eliwa**
 2. Maurice
 3. Maschell
 4. Giant
